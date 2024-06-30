@@ -1,6 +1,6 @@
 # PSDA-project-2
 ## REPORT
-[link]Project2_report.pdf
+Project2_report.pdf
 ## VIDEO
 
 ## REFLECTION
