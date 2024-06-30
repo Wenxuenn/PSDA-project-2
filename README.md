@@ -1,6 +1,6 @@
 # PSDA-project-2
 ## REPORT
-
+[https://github.com/Wenxuenn/PSDA-project-2/blob/main/Project2_report.pdf]
 ## VIDEO
 
 ## REFLECTION
