@@ -1,4 +1,4 @@
-# PSDA-project-2
+# __PSDA-project-2__
 ## REPORT
 [report](https://github.com/Wenxuenn/PSDA-project-2/blob/main/Project2_report.pdf)
 ## VIDEO
