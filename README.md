@@ -2,7 +2,7 @@
 ## REPORT
 [report](https://github.com/Wenxuenn/PSDA-project-2/blob/main/Project2_report.pdf)
 ## VIDEO
-
+[video](https://youtu.be/OARKWn5cWpw)
 ## REFLECTION
 ***Throughout this entire project 2 progress, I gained a lot of new knowledge. I learn how to do analysis and coding using R programming. 
 Other than that, it was fun doing projects in a groups, where all of us need to coordinate with each other to create a good result where it satisfied everyone.
